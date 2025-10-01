@@ -1,3 +1,4 @@
+FMCG Price Analysis – A case study using Python for pricing insights.
 The task is to analyze the provided dataset and recommend how a FMCG retail brand can improve pricing and commercial performance. The data comes from 2024's Halloween portfolio and reflects a real business scenario. Focus on extracting clear insights and translat-ing them into actionable recommendations.
 Abstract
 1. Objective: Analyze 10 Halloween items across 3 markets (DK, ES, GB)
